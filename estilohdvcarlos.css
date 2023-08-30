@@ -1,0 +1,74 @@
+body
+{
+    margin: 20px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    /*height: 200vh;*/
+    background-color: rgb(78, 113, 228, 0.5);
+    
+}
+
+a:focus{
+    background-color: black;
+    color: #d2dbd9;
+    font-size: 20px;
+}
+
+a:hover{
+    background-color: black;
+    color: #d2dbd9;
+    font-size: 30px;
+}
+
+.perfil-laboral{
+    margin-left: 10px;
+    padding: 10px;
+    text-align: justify;
+    border-radius: 20px;
+    box-shadow: -10px 4px 2px rgb(110, 110, 180,1);
+    background-color: rgb(160, 78, 228,0.8);
+
+
+}
+
+.EDUCACIÓN{
+    margin-left: 20px;
+    padding-left: 10px;
+    border-radius: 20px;
+    box-shadow: -10px 4px 2px rgb(110, 110, 180,1);
+    background-color: rgb(160, 78, 228,0.8);
+
+}
+
+.REFERENCIAS-LABORALES{
+    margin-left: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+    box-shadow: -10px 4px 2px rgb(110, 110, 180,1);
+    background-color: rgb(160, 78, 228,0.8);
+}
+
+.EXPERIENCIA-LABORAL{
+    margin-left: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+    box-shadow: -10px 4px 2px rgb(110, 110, 180,1);
+    background-color: rgb(160, 78, 228,0.8);
+}
+
+.PROYECTOS-HOBBIES-CITA{
+    margin-left: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+    box-shadow: -10px 4px 2px rgb(110, 110, 180,1);
+    background-color: rgb(160, 78, 228,0.8);
+}
+
+
+
+
+
+        
+  
